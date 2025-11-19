@@ -1,1 +1,3 @@
-pip install twikit rich
+streamlit==1.39.0
+twikit==2.1.5
+

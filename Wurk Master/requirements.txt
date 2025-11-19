@@ -1,2 +1,10 @@
-streamlit
-twikit
+streamlit==1.51.0
+twikit==2.3.3
+Js2Py_3.13==0.74.1
+lxml==5.3.0
+httpx[socks]==0.28.1
+beautifulsoup4==4.12.3
+filetype==1.2.0
+pyotp==2.9.0
+webvtt-py==0.5.1
+m3u8==6.0.0
